@@ -1,0 +1,6 @@
+end 20.0 ;
+pop 20 ;
+infected 2 ;
+house 5 , 0 ;
+employed 1 ;
+workplace 5 , 0 ;
