@@ -1,9 +1,9 @@
-Epidemic simulator
+# Epidemic simulator
 Author: Blake Berringer
 Author: Douglas Jones
 Version: 11/11/2020 -- the 11/2/2020 version broken into multiple source files
 
-This distribution contains:
+## This distribution contains:
 
 -- README -- this file
 -- EpidemicSource -- the list of all Java source files included here
